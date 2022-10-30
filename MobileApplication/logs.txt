@@ -1,0 +1,23 @@
+EAS project not configured.
+✔ Would you like to automatically create an EAS project for @warisdevkhan/AwesomeProject? … yes
+✔ Created @warisdevkhan/AwesomeProject on Expo
+✔ Linked local project to EAS project ba3c421c-98ce-41b0-b9a7-71afdb08f5d0
+
+📝  Android application id Learn more
+✔ What would you like your Android application id to be? … com.warisdevkhan.AwesomeProject
+✔ Using remote Android credentials (Expo server)
+✔ Generate a new Android Keystore? … yes
+✔ Created keystore
+
+Compressing project files and uploading to EAS Build. Learn more
+✔ Uploaded to EAS 9s
+
+Build details: https://expo.dev/accounts/warisdevkhan/projects/AwesomeProject/builds/8fc403fe-8bb2-4404-8296-5a8fd796f127
+
+Waiting for build to complete. You can press Ctrl+C to exit.
+✔ Build finished
+
+🤖 Android app:
+https://expo.dev/artifacts/eas/iKEqh1erNcJ9FrXfXrANyP.apk
+
+Testing
